@@ -1,0 +1,43 @@
+
+
+body {
+	background: url('../images/background.jpg');
+	/* the follow is the code to have the image display as a full page */
+	background-position: center;
+	background-attachment: fixed;
+	-webkit-background-size: cover; /* the next 3 lines are "browser prefixes", they are necessary to include for CSS3 techniques */
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+
+
+#container{
+	font-family: 'Work Sans', sans-serif;
+	width: 40%;
+	color: #1b121b;
+	padding: 30px;
+	padding-bottom: 50px;
+}
+
+
+
+h1{
+	font-size: 70px;
+
+}
+
+
+
+
+a{
+	text-decoration: none;
+	font-size: 15px;
+	font-style: italic;
+}
+
+iframe{
+	padding: 10px;
+}
+
