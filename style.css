@@ -1,7 +1,7 @@
 
 
 body {
-	background: url('../images/background.jpg');
+	background: url('background.jpg');
 	/* the follow is the code to have the image display as a full page */
 	background-position: center;
 	background-attachment: fixed;
